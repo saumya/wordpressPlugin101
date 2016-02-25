@@ -10,7 +10,7 @@ Well, probably that's over simplification. But thats all one need to do.
 
 More on hooks in a second.
 
-	So what a plugin developer doing is adding some more functions to the already crowded global functions of Wordpress.
+	So what a plugin developer is adding some functions to the crowded global functions space of Wordpress.
 
 That means, one has to be careful enough to name to functions properly so that there might not be any name collisions.
 
